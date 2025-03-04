@@ -1,0 +1,11 @@
+# 忽略Visual Studio生成文件
+x64/
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.obj
+*.pdb
+*.exe
+# 忽略Visual Studio生成的临时文件
+.vs/
